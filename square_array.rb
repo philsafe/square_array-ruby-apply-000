@@ -1,6 +1,6 @@
 
 def
-numbers  = [1,2,3]
+numbers 
 
 square_array (numbers)
 #=>[1,4,9])
