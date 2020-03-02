@@ -5,5 +5,5 @@ num = []
 array.each { |i| num << i ** 2 }
 num
 end
-my_num = [1,2,3]
-p square_array(my_num)
+my_num = [9,10,16,25]
+square_array(my_num)
