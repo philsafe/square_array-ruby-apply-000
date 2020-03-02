@@ -1,4 +1,4 @@
-#square_array_lab
+
 def
 numbers  = [1,2,3]
 
