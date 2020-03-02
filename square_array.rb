@@ -1,8 +1,7 @@
 #square_array_lab
 def
-numbers = []
+numbers = [1,2,3]
  array.each {|i| numbers << i ** 2}
  numbers
 end
 
-numbers = [1,2,3]
