@@ -6,10 +6,11 @@ def
   
   array 
 end
+def 
  numbers =
 
   [1, 2, 3]
-
+end
 def
   
   square_array(numbers)
