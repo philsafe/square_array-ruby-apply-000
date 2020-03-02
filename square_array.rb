@@ -5,3 +5,4 @@ numbers  [1,2,3]
  numbers
 end
 
+p square_array_lab(array) #=> [1,4,9]
