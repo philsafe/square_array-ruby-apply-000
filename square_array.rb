@@ -1,13 +1,9 @@
 
 def
-numbers 
-
-square_array (numbers)
-#=>[1,4,9])
-
-new_numbers = [9,10,16,25]
-
-
- array.each {|i| numbers << i ** 2}
- 
+square_array (array)
+num = []
+array.each { |i| num << i ** 2 }
+num
 end
+my_num = [1,2,3]
+p square_array(my_num)
