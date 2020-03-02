@@ -1,16 +1,11 @@
 #square_array_lab
 def
-  array=
-  []
+  array [1,2,3]
   array.each { |i| array << i **2}
   
   array 
 end
-def 
- numbers =
 
-  [1, 2, 3]
-end
 def
   
   square_array(numbers)
