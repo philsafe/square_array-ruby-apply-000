@@ -1,4 +1,4 @@
 #square_array_lab
 def
-3 **2
+array = 3 ** 2
 end
